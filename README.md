@@ -37,7 +37,7 @@ The YOLOv8 Android App is a mobile application designed for real-time object det
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/superbabii/YOLOv8-AndroidApp.git
+    git clone https://github.com/superbabiiX/YOLOv8-AndroidApp.git
     cd YOLOv8-AndroidApp
     ```
 
@@ -95,7 +95,7 @@ This integration eliminates concerns related to the tensor format or metadata is
 
 ## Creating Your Own YOLOv8 Model
 
-You can also customize the YOLOv8 model to suit your specific needs. For instance, you can use the VisDrone dataset to create a YOLOv8 model. Please refer to the [VisDrone YOLOv8 Models Upgrade](https://github.com/superbabii/VisDrone-YOLOv8-Models-Upgrade) repository for detailed instructions.
+You can also customize the YOLOv8 model to suit your specific needs. For instance, you can use the VisDrone dataset to create a YOLOv8 model. Please refer to the [VisDrone YOLOv8 Models Upgrade](https://github.com/superbabiiX/VisDrone-YOLOv8-Models-Upgrade) repository for detailed instructions.
 
 ## Contributing
 
