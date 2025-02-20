@@ -13,7 +13,6 @@ This repository contains an Android application utilizing a TensorFlow Lite mode
 - [TensorFlow Lite Integration](#tensorflow-lite-integration)
 - [Creating Your Own YOLOv8 Model](#creating-your-own-yolov8-model)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
