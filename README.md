@@ -17,7 +17,7 @@ This repository contains an Android application utilizing a TensorFlow Lite mode
 
 ## Introduction
 
-The YOLOv8 Android App is a mobile application designed for real-time object detection using the YOLOv8 model. This project exemplifies the integration of TensorFlow Lite (TFLite) with an Android application to deliver efficient and accurate object detection on mobile devices.
+The YOLOv8 Android App is a mobile Android application designed for real-time object detection using the YOLOv8 model. This project exemplifies the integration of TensorFlow Lite (TFLite) with an Android application to deliver efficient and accurate object detection on mobile devices.
 
 ## Features
 
