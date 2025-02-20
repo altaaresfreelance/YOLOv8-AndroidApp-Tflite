@@ -1,6 +1,6 @@
 # YOLOv8 Android App - TFLite
 
-This repository contains an Android application utilizing a TensorFlow Lite model based on YOLOv8 for object detection.
+This repository contains an Android application utilizing a TensorFlow Lite model based on YOLOv8 for object detection. (alta ares)
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ This repository contains an Android application utilizing a TensorFlow Lite mode
 
 ## Introduction
 
-The YOLOv8 Android App is a mobile application designed for real-time object detection using the YOLOv8 model. This project exemplifies the integration of TensorFlow Lite (TFLite) with an Android application to deliver efficient and accurate object detection on mobile devices.
+The YOLOv8 Android App is a mobile Android application designed for real-time object detection using the YOLOv8 model. This project exemplifies the integration of TensorFlow Lite (TFLite) with an Android application to deliver efficient and accurate object detection on mobile devices.
 
 ## Features
 
@@ -36,7 +36,7 @@ The YOLOv8 Android App is a mobile application designed for real-time object det
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/superbabii/YOLOv8-AndroidApp.git
+    git clone https://github.com/superbabiiX/YOLOv8-AndroidApp.git
     cd YOLOv8-AndroidApp
     ```
 
@@ -45,7 +45,7 @@ The YOLOv8 Android App is a mobile application designed for real-time object det
     - Navigate to the cloned repository and open it.
 
 3. **Build and run the project:**
-    - Connect your Android device or start an emulator.
+    - Connect your Android device or start an Emulator.
     - Click `Run` in Android Studio.
 
 ## Usage
@@ -94,7 +94,7 @@ This integration eliminates concerns related to the tensor format or metadata is
 
 ## Creating Your Own YOLOv8 Model
 
-You can also customize the YOLOv8 model to suit your specific needs. For instance, you can use the VisDrone dataset to create a YOLOv8 model. Please refer to the [VisDrone YOLOv8 Models Upgrade](https://github.com/superbabii/VisDrone-YOLOv8-Models-Upgrade) repository for detailed instructions.
+You can also customize the YOLOv8 model to suit your specific needs. For instance, you can use the VisDrone dataset to create a YOLOv8 model. Please refer to the [VisDrone YOLOv8 Models Upgrade](https://github.com/superbabiiX/VisDrone-YOLOv8-Models-Upgrade) repository for detailed instructions.
 
 ## Contributing
 
@@ -106,14 +106,10 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [YOLOv8](https://github.com/ultralytics/ultralytics) for the object detection model.
 - [TensorFlow Lite](https://www.tensorflow.org/lite) for providing the framework to run the model on mobile devices.
 - [Android Studio](https://developer.android.com/studio) for the development environment.
 - [Google Colab](https://colab.research.google.com) for providing a cloud-based Jupyter notebook environment.
-nazar
+nazar - alta ares
