@@ -1,6 +1,6 @@
 # YOLOv8 Android App - TFLite
 
-This repository contains an Android application utilizing a TensorFlow Lite model based on YOLOv8 for object detection. (alta ares)
+This repository contains an Android application utilizing a TensorFlow Lite model based on YOLOv8 for object detection.
 
 ## Table of Contents
 
@@ -112,4 +112,3 @@ Contributions are welcome! Please follow these steps:
 - [TensorFlow Lite](https://www.tensorflow.org/lite) for providing the framework to run the model on mobile devices.
 - [Android Studio](https://developer.android.com/studio) for the development environment.
 - [Google Colab](https://colab.research.google.com) for providing a cloud-based Jupyter notebook environment.
-nazar - alta ares
