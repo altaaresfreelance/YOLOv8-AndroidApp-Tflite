@@ -45,7 +45,7 @@ The YOLOv8 Android App is a mobile Android application designed for real-time ob
     - Navigate to the cloned repository and open it.
 
 3. **Build and run the project:**
-    - Connect your Android device or start an Emulator.
+    - Connect your Android device or start an emulator.
     - Click `Run` in Android Studio.
 
 ## Usage
