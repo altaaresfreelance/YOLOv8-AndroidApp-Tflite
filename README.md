@@ -30,7 +30,7 @@ The YOLOv8 Android App is a mobile Android application designed for real-time ob
 ### Prerequisites
 
 - Android Studio
-- An Android device or emulator
+- An Android device or Emulator
 
 ### Steps
 
